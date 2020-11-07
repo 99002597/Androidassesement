@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Pinterest</string>
+    <string-array name="Winners_List">
+        <item>Fashion</item>
+        <item>Computer Hardware</item>
+        <item>Cars</item>
+        <item>Fitness</item>
+        <item>Food</item>
+
+    </string-array>
+
+    <string-array name="Description">
+        <item>Suit, leather jackets, jeans for men and saree for ladies with high heels.</item>
+        <item>Macbook Pro 16 by Apple Inc. Microsoft remains at windows 10.</item>
+        <item>Tesla, Mercedes Benz, Ferrari, BMW and Ferrari.</item>
+        <item>Gym and Yoga</item>
+        <item>Dates, fruits, vegetables and yogurt.</item>
+
+    </string-array>
+    <string name="name">Enter Name</string>
+    <string name="pass">Enter Password</string>
+    <string name="ph">Enter Phone</string>
+</resources>
